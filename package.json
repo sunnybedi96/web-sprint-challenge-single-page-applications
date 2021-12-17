@@ -32,5 +32,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "**Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**\r **READ ALL INSTRUCTIONS BEFORE REACHING OUT TO ASK A QUESTION!!**\r (that above part was because the FAQs section answers 75% of questions)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnybedi96/web-sprint-challenge-single-page-applications.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnybedi96/web-sprint-challenge-single-page-applications/issues"
+  },
+  "homepage": "https://github.com/sunnybedi96/web-sprint-challenge-single-page-applications#readme",
+  "devDependencies": {
+    "cypress": "^9.1.1"
   }
 }
